@@ -1,0 +1,42 @@
+body {
+    background-color: black;
+    color: white
+}
+
+#red {
+   background-color: red; 
+}
+
+#orange {
+    background-color: orange;
+}
+
+#yellow {
+    background-color: yellow;
+}
+
+#green {
+    background-color: mediumseagreen;
+}
+
+#blue {
+    background-color: aqua;
+}
+
+#violet {
+    background-color: purple;
+}
+
+.colorblock {
+    width: 100px;
+    height: 100px;
+    display: none;
+}
+
+.show-me-color {
+    display: block;
+}
+
+.hide-the-color {
+    display: none;
+}
